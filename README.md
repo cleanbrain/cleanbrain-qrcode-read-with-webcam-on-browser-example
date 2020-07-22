@@ -1,1 +1,1 @@
-# cleanbrain-qrcode-read-with-webcam-on-browser-example
+# qrcode-read-with-webcam-on-browser-example
